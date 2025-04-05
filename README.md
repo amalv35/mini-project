@@ -1,2 +1,3 @@
 # mini-project
-contains mini webpages
+menu card webpage
+
